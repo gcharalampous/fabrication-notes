@@ -66,24 +66,10 @@ To remove organic contaminants and residues from silicon wafers and other substr
 - **Monthly:** Check the condition of the safety equipment and replace as needed.
 
 ## Related Notes
-- [[Wafer Cleaning Procedures]]
-- [[Chemical Safety Guidelines]]
-- [[Microscope Inspection Procedures]]
+- [[Wafer Solvent Cleaning]]
 
 ## Observations
 - Note any deviations from the standard procedure, unexpected results, or observations during the process.
-
----
-
-**Date:** 2024-06-11
-
-**Operator:** Georgios Ch.
-
-**Notes:** N/A
-
-## Next Steps
-- Update the standard operating procedure to emphasize the importance of slow addition of hydrogen peroxide.
-
 
 ---
 

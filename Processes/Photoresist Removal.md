@@ -51,24 +51,10 @@ To safely and effectively remove photoresist from the wafer surface without dama
 - **Chemical Residue**: Ensure thorough rinsing with DI water and IPA to remove all chemical residues.
 
 ## Related Notes
-- [[Wafer Cleaning]]
-- [[Photoresist Application]]
-- [[Chemical Safety Guidelines]]
-- [[Microscope Inspection Procedures]]
+- [[Wafer Solvent Cleaning]]
 
 ## Observations
 - Note any deviations from the standard procedure, unexpected results, or observations during the process.
-
----
-
-**Date:** 2024-06-11
-
-**Operator:** Georgios Ch.
-
-**Notes:** Observed slight residue on the wafer after initial stripping. Increased immersion time to 20 minutes which resolved the issue.
-
-## Next Steps
-- Review the current procedure for potential optimizations.
 
 ---
 

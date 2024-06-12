@@ -55,24 +55,10 @@ To thoroughly clean wafers to remove contaminants and residues, ensuring they ar
 - **Chemical Residue**: Ensure thorough rinsing with DI water after each cleaning step.
 
 ## Related Notes
-- [[Photoresist Removal]]
-- [[Chemical Safety Guidelines]]
-- [[Microscope Inspection Procedures]]
+- [[Wafer Piranha Cleaning]]
 
 ## Observations
 - Note any deviations from the standard procedure, unexpected results, or observations during the process.
-
----
-
-**Date:** 2024-06-11
-
-**Operator:** Georgios Ch.
-
-**Notes:** Observed slight particulate contamination after IPA cleaning. Implemented Piranha cleaning which resolved the issue.
-
-## Next Steps
-- Review and optimize the current cleaning procedure.
-
 
 ---
 
