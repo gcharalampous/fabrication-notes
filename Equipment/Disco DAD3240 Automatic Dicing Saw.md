@@ -102,8 +102,10 @@ Breakage Detector) Adjustment]** button.
 
 5. **Recipe/Job Setup**
    - Open the control software and select a dicing recipe.
-   - Specify the blade type, spindle speed, cutting speed, and cut depth.
+   - Specify the blade type, spindle speed, cutting speed, tape thickness, and cut depth.
    - Check if the recipe was loaded correctly.
+     - Make sure the dicing parameters are set correctly.
+     - You can set the indices if it is required to get the job done. 
 
 6. **Dicing Process [Semi-Automatic Cutting]**
    - Press **[Manual Operation]** button, then press the **[Semi-Automatic Cutting]** button.
@@ -135,30 +137,12 @@ Breakage Detector) Adjustment]** button.
 
 ## Emergency Procedures
 - In case of system failure, press the emergency stop button and follow the facility’s emergency protocols.
-- For coolant leaks, shut off the coolant supply and notify the safety officer immediately.
 
-## Maintenance Schedule
-- Regularly check and replace the dicing blade.
-- Clean the worktable daily.
-- Inspect the vacuum chuck and seals monthly.
 
 ## Related Notes
 - [[Wafer Cleaning Procedure]]
 - [[Blade Replacement Guide]]
 
-## Observations
-- Record any deviations from standard operation, unusual observations, or maintenance performed.
-
----
-
-**Date:** 2024-06-11
-
-**Operator:** Georgios Ch.
-
-**Notes:** N/A
-
-## Next Steps
-- N/A
 
 ---
 
